@@ -1,0 +1,691 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\AFROUKH\\Documents\\todolist\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CAFB2ED1-E5EC-460A-8EE1-5EAAD75E9B04}|todolist\\todolist.csproj|C:\\Users\\AFROUKH\\Documents\\todolist\\todolist\\views\\todo\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CAFB2ED1-E5EC-460A-8EE1-5EAAD75E9B04}|todolist\\todolist.csproj|solutionrelative:todolist\\views\\todo\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAFB2ED1-E5EC-460A-8EE1-5EAAD75E9B04}|todolist\\todolist.csproj|C:\\Users\\AFROUKH\\Documents\\todolist\\todolist\\views\\calendar\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CAFB2ED1-E5EC-460A-8EE1-5EAAD75E9B04}|todolist\\todolist.csproj|solutionrelative:todolist\\views\\calendar\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAFB2ED1-E5EC-460A-8EE1-5EAAD75E9B04}|todolist\\todolist.csproj|C:\\Users\\AFROUKH\\Documents\\todolist\\todolist\\controllers\\todocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAFB2ED1-E5EC-460A-8EE1-5EAAD75E9B04}|todolist\\todolist.csproj|solutionrelative:todolist\\controllers\\todocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAFB2ED1-E5EC-460A-8EE1-5EAAD75E9B04}|todolist\\todolist.csproj|C:\\Users\\AFROUKH\\Documents\\todolist\\todolist\\views\\shared\\_calendar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CAFB2ED1-E5EC-460A-8EE1-5EAAD75E9B04}|todolist\\todolist.csproj|solutionrelative:todolist\\views\\shared\\_calendar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAFB2ED1-E5EC-460A-8EE1-5EAAD75E9B04}|todolist\\todolist.csproj|c:\\users\\afroukh\\documents\\todolist\\todolist\\views\\shared\\_toast.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CAFB2ED1-E5EC-460A-8EE1-5EAAD75E9B04}|todolist\\todolist.csproj|solutionrelative:todolist\\views\\shared\\_toast.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAFB2ED1-E5EC-460A-8EE1-5EAAD75E9B04}|todolist\\todolist.csproj|c:\\users\\afroukh\\documents\\todolist\\todolist\\class\\tache.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAFB2ED1-E5EC-460A-8EE1-5EAAD75E9B04}|todolist\\todolist.csproj|solutionrelative:todolist\\class\\tache.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAFB2ED1-E5EC-460A-8EE1-5EAAD75E9B04}|todolist\\todolist.csproj|C:\\Users\\AFROUKH\\Documents\\todolist\\todolist\\models\\todos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAFB2ED1-E5EC-460A-8EE1-5EAAD75E9B04}|todolist\\todolist.csproj|solutionrelative:todolist\\models\\todos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAFB2ED1-E5EC-460A-8EE1-5EAAD75E9B04}|todolist\\todolist.csproj|C:\\Users\\AFROUKH\\Documents\\todolist\\todolist\\views\\shared\\_tableentete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CAFB2ED1-E5EC-460A-8EE1-5EAAD75E9B04}|todolist\\todolist.csproj|solutionrelative:todolist\\views\\shared\\_tableentete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAFB2ED1-E5EC-460A-8EE1-5EAAD75E9B04}|todolist\\todolist.csproj|C:\\Users\\AFROUKH\\Documents\\todolist\\todolist\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CAFB2ED1-E5EC-460A-8EE1-5EAAD75E9B04}|todolist\\todolist.csproj|solutionrelative:todolist\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAFB2ED1-E5EC-460A-8EE1-5EAAD75E9B04}|todolist\\todolist.csproj|c:\\users\\afroukh\\documents\\todolist\\todolist\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{CAFB2ED1-E5EC-460A-8EE1-5EAAD75E9B04}|todolist\\todolist.csproj|solutionrelative:todolist\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAFB2ED1-E5EC-460A-8EE1-5EAAD75E9B04}|todolist\\todolist.csproj|C:\\Users\\AFROUKH\\Documents\\todolist\\todolist\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CAFB2ED1-E5EC-460A-8EE1-5EAAD75E9B04}|todolist\\todolist.csproj|solutionrelative:todolist\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAFB2ED1-E5EC-460A-8EE1-5EAAD75E9B04}|todolist\\todolist.csproj|C:\\Users\\AFROUKH\\Documents\\todolist\\todolist\\views\\todo\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CAFB2ED1-E5EC-460A-8EE1-5EAAD75E9B04}|todolist\\todolist.csproj|solutionrelative:todolist\\views\\todo\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAFB2ED1-E5EC-460A-8EE1-5EAAD75E9B04}|todolist\\todolist.csproj|C:\\Users\\AFROUKH\\Documents\\todolist\\todolist\\controllers\\calendar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAFB2ED1-E5EC-460A-8EE1-5EAAD75E9B04}|todolist\\todolist.csproj|solutionrelative:todolist\\controllers\\calendar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAFB2ED1-E5EC-460A-8EE1-5EAAD75E9B04}|todolist\\todolist.csproj|C:\\Users\\AFROUKH\\Documents\\todolist\\todolist\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CAFB2ED1-E5EC-460A-8EE1-5EAAD75E9B04}|todolist\\todolist.csproj|solutionrelative:todolist\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAFB2ED1-E5EC-460A-8EE1-5EAAD75E9B04}|todolist\\todolist.csproj|C:\\Users\\AFROUKH\\Documents\\todolist\\todolist\\views\\shared\\_createbutton.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CAFB2ED1-E5EC-460A-8EE1-5EAAD75E9B04}|todolist\\todolist.csproj|solutionrelative:todolist\\views\\shared\\_createbutton.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAFB2ED1-E5EC-460A-8EE1-5EAAD75E9B04}|todolist\\todolist.csproj|C:\\Users\\AFROUKH\\Documents\\todolist\\todolist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAFB2ED1-E5EC-460A-8EE1-5EAAD75E9B04}|todolist\\todolist.csproj|solutionrelative:todolist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAFB2ED1-E5EC-460A-8EE1-5EAAD75E9B04}|todolist\\todolist.csproj|C:\\Users\\AFROUKH\\Documents\\todolist\\todolist\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{CAFB2ED1-E5EC-460A-8EE1-5EAAD75E9B04}|todolist\\todolist.csproj|solutionrelative:todolist\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAFB2ED1-E5EC-460A-8EE1-5EAAD75E9B04}|todolist\\todolist.csproj|C:\\Users\\AFROUKH\\Documents\\todolist\\todolist\\views\\todo\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CAFB2ED1-E5EC-460A-8EE1-5EAAD75E9B04}|todolist\\todolist.csproj|solutionrelative:todolist\\views\\todo\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAFB2ED1-E5EC-460A-8EE1-5EAAD75E9B04}|todolist\\todolist.csproj|C:\\Users\\AFROUKH\\Documents\\todolist\\todolist\\views\\todo\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CAFB2ED1-E5EC-460A-8EE1-5EAAD75E9B04}|todolist\\todolist.csproj|solutionrelative:todolist\\views\\todo\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAFB2ED1-E5EC-460A-8EE1-5EAAD75E9B04}|todolist\\todolist.csproj|C:\\Users\\AFROUKH\\Documents\\todolist\\todolist\\controllers\\holidaycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAFB2ED1-E5EC-460A-8EE1-5EAAD75E9B04}|todolist\\todolist.csproj|solutionrelative:todolist\\controllers\\holidaycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAFB2ED1-E5EC-460A-8EE1-5EAAD75E9B04}|todolist\\todolist.csproj|C:\\Users\\AFROUKH\\Documents\\todolist\\todolist\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAFB2ED1-E5EC-460A-8EE1-5EAAD75E9B04}|todolist\\todolist.csproj|solutionrelative:todolist\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAFB2ED1-E5EC-460A-8EE1-5EAAD75E9B04}|todolist\\todolist.csproj|C:\\Users\\AFROUKH\\Documents\\todolist\\todolist\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CAFB2ED1-E5EC-460A-8EE1-5EAAD75E9B04}|todolist\\todolist.csproj|solutionrelative:todolist\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAFB2ED1-E5EC-460A-8EE1-5EAAD75E9B04}|todolist\\todolist.csproj|C:\\Users\\AFROUKH\\Documents\\todolist\\todolist\\views\\holidays\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CAFB2ED1-E5EC-460A-8EE1-5EAAD75E9B04}|todolist\\todolist.csproj|solutionrelative:todolist\\views\\holidays\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAFB2ED1-E5EC-460A-8EE1-5EAAD75E9B04}|todolist\\todolist.csproj|C:\\Users\\AFROUKH\\Documents\\todolist\\todolist\\class\\holiday.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAFB2ED1-E5EC-460A-8EE1-5EAAD75E9B04}|todolist\\todolist.csproj|solutionrelative:todolist\\class\\holiday.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAFB2ED1-E5EC-460A-8EE1-5EAAD75E9B04}|todolist\\todolist.csproj|C:\\Users\\AFROUKH\\Documents\\todolist\\todolist\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CAFB2ED1-E5EC-460A-8EE1-5EAAD75E9B04}|todolist\\todolist.csproj|solutionrelative:todolist\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAFB2ED1-E5EC-460A-8EE1-5EAAD75E9B04}|todolist\\todolist.csproj|C:\\Users\\AFROUKH\\Documents\\todolist\\todolist\\migrations\\20240609160714_test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAFB2ED1-E5EC-460A-8EE1-5EAAD75E9B04}|todolist\\todolist.csproj|solutionrelative:todolist\\migrations\\20240609160714_test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAFB2ED1-E5EC-460A-8EE1-5EAAD75E9B04}|todolist\\todolist.csproj|C:\\Users\\AFROUKH\\Documents\\todolist\\todolist\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAFB2ED1-E5EC-460A-8EE1-5EAAD75E9B04}|todolist\\todolist.csproj|solutionrelative:todolist\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\AFROUKH\\Documents\\todolist\\todolist\\Migrations\\ApplicationDb\\20240609155800_initial1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:todolist\\Migrations\\ApplicationDb\\20240609155800_initial1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAFB2ED1-E5EC-460A-8EE1-5EAAD75E9B04}|todolist\\todolist.csproj|C:\\Users\\AFROUKH\\Documents\\todolist\\todolist\\migrations\\20240609160006_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAFB2ED1-E5EC-460A-8EE1-5EAAD75E9B04}|todolist\\todolist.csproj|solutionrelative:todolist\\migrations\\20240609160006_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\AFROUKH\\Documents\\todolist\\todolist\\Migrations\\20240609143158_ToDok.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:todolist\\Migrations\\20240609143158_ToDok.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\AFROUKH\\Documents\\todolist\\todolist\\Migrations\\ApplicationDb\\20240609142641_initialToDo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:todolist\\Migrations\\ApplicationDb\\20240609142641_initialToDo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\AFROUKH\\Documents\\todolist\\todolist\\Migrations\\20240609141254_NewToDo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:todolist\\Migrations\\20240609141254_NewToDo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\AFROUKH\\Documents\\todolist\\todolist\\Data\\Migrations\\20240609141123_k.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:todolist\\Data\\Migrations\\20240609141123_k.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAFB2ED1-E5EC-460A-8EE1-5EAAD75E9B04}|todolist\\todolist.csproj|C:\\Users\\AFROUKH\\Documents\\todolist\\todolist\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CAFB2ED1-E5EC-460A-8EE1-5EAAD75E9B04}|todolist\\todolist.csproj|solutionrelative:todolist\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\AFROUKH\\Documents\\todolist\\todolist\\Migrations\\20240609133202_ClientToDo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:todolist\\Migrations\\20240609133202_ClientToDo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\AFROUKH\\Documents\\todolist\\todolist\\Data\\Migrations\\20240609132814_IdentityLinked.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:todolist\\Data\\Migrations\\20240609132814_IdentityLinked.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\AFROUKH\\Documents\\todolist\\todolist\\Data\\Migrations\\20240609131752_InheritedUser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:todolist\\Data\\Migrations\\20240609131752_InheritedUser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAFB2ED1-E5EC-460A-8EE1-5EAAD75E9B04}|todolist\\todolist.csproj|C:\\Users\\AFROUKH\\Documents\\todolist\\todolist\\views\\todo\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CAFB2ED1-E5EC-460A-8EE1-5EAAD75E9B04}|todolist\\todolist.csproj|solutionrelative:todolist\\views\\todo\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAFB2ED1-E5EC-460A-8EE1-5EAAD75E9B04}|todolist\\todolist.csproj|C:\\Users\\AFROUKH\\Documents\\todolist\\todolist\\Migrations\\20240609161125_ll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAFB2ED1-E5EC-460A-8EE1-5EAAD75E9B04}|todolist\\todolist.csproj|solutionrelative:todolist\\Migrations\\20240609161125_ll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 159,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1437590055:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TodoController.cs",
+              "DocumentMoniker": "C:\\Users\\AFROUKH\\Documents\\todolist\\todolist\\Controllers\\TodoController.cs",
+              "RelativeDocumentMoniker": "todolist\\Controllers\\TodoController.cs",
+              "ToolTip": "C:\\Users\\AFROUKH\\Documents\\todolist\\todolist\\Controllers\\TodoController.cs",
+              "RelativeToolTip": "todolist\\Controllers\\TodoController.cs",
+              "ViewState": "AQIAAK8AAAAAAAAAAAAqwLIAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T22:00:04.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\AFROUKH\\Documents\\todolist\\todolist\\Views\\Todo\\Index.cshtml",
+              "RelativeDocumentMoniker": "todolist\\Views\\Todo\\Index.cshtml",
+              "ToolTip": "C:\\Users\\AFROUKH\\Documents\\todolist\\todolist\\Views\\Todo\\Index.cshtml*",
+              "RelativeToolTip": "todolist\\Views\\Todo\\Index.cshtml*",
+              "ViewState": "AQIAAG0AAAAAAAAAAAAiwHQAAACVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-06T22:26:35.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_toast.cshtml",
+              "DocumentMoniker": "C:\\Users\\AFROUKH\\Documents\\todolist\\todolist\\Views\\Shared\\_toast.cshtml",
+              "RelativeDocumentMoniker": "todolist\\Views\\Shared\\_toast.cshtml",
+              "ToolTip": "C:\\Users\\AFROUKH\\Documents\\todolist\\todolist\\Views\\Shared\\_toast.cshtml",
+              "RelativeToolTip": "todolist\\Views\\Shared\\_toast.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-09T17:48:51.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_calendar.cshtml",
+              "DocumentMoniker": "C:\\Users\\AFROUKH\\Documents\\todolist\\todolist\\Views\\Shared\\_calendar.cshtml",
+              "RelativeDocumentMoniker": "todolist\\Views\\Shared\\_calendar.cshtml",
+              "ToolTip": "C:\\Users\\AFROUKH\\Documents\\todolist\\todolist\\Views\\Shared\\_calendar.cshtml",
+              "RelativeToolTip": "todolist\\Views\\Shared\\_calendar.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-14T18:34:07.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\AFROUKH\\Documents\\todolist\\todolist\\Views\\Calendar\\Index.cshtml",
+              "RelativeDocumentMoniker": "todolist\\Views\\Calendar\\Index.cshtml",
+              "ToolTip": "C:\\Users\\AFROUKH\\Documents\\todolist\\todolist\\Views\\Calendar\\Index.cshtml",
+              "RelativeToolTip": "todolist\\Views\\Calendar\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-14T21:31:56.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "tache.cs",
+              "DocumentMoniker": "C:\\Users\\AFROUKH\\Documents\\todolist\\todolist\\Class\\tache.cs",
+              "RelativeDocumentMoniker": "todolist\\Class\\tache.cs",
+              "ToolTip": "C:\\Users\\AFROUKH\\Documents\\todolist\\todolist\\Class\\tache.cs",
+              "RelativeToolTip": "todolist\\Class\\tache.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T12:57:08.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Todos.cs",
+              "DocumentMoniker": "C:\\Users\\AFROUKH\\Documents\\todolist\\todolist\\Models\\Todos.cs",
+              "RelativeDocumentMoniker": "todolist\\Models\\Todos.cs",
+              "ToolTip": "C:\\Users\\AFROUKH\\Documents\\todolist\\todolist\\Models\\Todos.cs",
+              "RelativeToolTip": "todolist\\Models\\Todos.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAywDwAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T21:34:05.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_TableEntete.cshtml",
+              "DocumentMoniker": "C:\\Users\\AFROUKH\\Documents\\todolist\\todolist\\Views\\Shared\\_TableEntete.cshtml",
+              "RelativeDocumentMoniker": "todolist\\Views\\Shared\\_TableEntete.cshtml",
+              "ToolTip": "C:\\Users\\AFROUKH\\Documents\\todolist\\todolist\\Views\\Shared\\_TableEntete.cshtml",
+              "RelativeToolTip": "todolist\\Views\\Shared\\_TableEntete.cshtml",
+              "ViewState": "AQIAACYAAAAAAAAAAAAAAAMAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-07T15:29:10.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\AFROUKH\\Documents\\todolist\\todolist\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "todolist\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\AFROUKH\\Documents\\todolist\\todolist\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "todolist\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-06T20:28:40.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\AFROUKH\\Documents\\todolist\\todolist\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "todolist\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\AFROUKH\\Documents\\todolist\\todolist\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "todolist\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAmwB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-06-15T11:08:36.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\AFROUKH\\Documents\\todolist\\todolist\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "todolist\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\AFROUKH\\Documents\\todolist\\todolist\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "todolist\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABQAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-07T16:49:23.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\AFROUKH\\Documents\\todolist\\todolist\\Views\\Todo\\Edit.cshtml",
+              "RelativeDocumentMoniker": "todolist\\Views\\Todo\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\AFROUKH\\Documents\\todolist\\todolist\\Views\\Todo\\Edit.cshtml",
+              "RelativeToolTip": "todolist\\Views\\Todo\\Edit.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAACEAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-07T23:35:51.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Calendar.cs",
+              "DocumentMoniker": "C:\\Users\\AFROUKH\\Documents\\todolist\\todolist\\Controllers\\Calendar.cs",
+              "RelativeDocumentMoniker": "todolist\\Controllers\\Calendar.cs",
+              "ToolTip": "C:\\Users\\AFROUKH\\Documents\\todolist\\todolist\\Controllers\\Calendar.cs",
+              "RelativeToolTip": "todolist\\Controllers\\Calendar.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAQwBoAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T18:29:02.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\AFROUKH\\Documents\\todolist\\todolist\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "todolist\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\AFROUKH\\Documents\\todolist\\todolist\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "todolist\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-06T20:29:00.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_CreateButton.cshtml",
+              "DocumentMoniker": "C:\\Users\\AFROUKH\\Documents\\todolist\\todolist\\Views\\Shared\\_CreateButton.cshtml",
+              "RelativeDocumentMoniker": "todolist\\Views\\Shared\\_CreateButton.cshtml",
+              "ToolTip": "C:\\Users\\AFROUKH\\Documents\\todolist\\todolist\\Views\\Shared\\_CreateButton.cshtml",
+              "RelativeToolTip": "todolist\\Views\\Shared\\_CreateButton.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-07T15:26:10.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\AFROUKH\\Documents\\todolist\\todolist\\Program.cs",
+              "RelativeDocumentMoniker": "todolist\\Program.cs",
+              "ToolTip": "C:\\Users\\AFROUKH\\Documents\\todolist\\todolist\\Program.cs",
+              "RelativeToolTip": "todolist\\Program.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAADQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T12:30:38.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "bootstrap.css",
+              "DocumentMoniker": "C:\\Users\\AFROUKH\\Documents\\todolist\\todolist\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "RelativeDocumentMoniker": "todolist\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "ToolTip": "C:\\Users\\AFROUKH\\Documents\\todolist\\todolist\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "RelativeToolTip": "todolist\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-06-14T22:11:56.217Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "create.cshtml",
+              "DocumentMoniker": "C:\\Users\\AFROUKH\\Documents\\todolist\\todolist\\Views\\Todo\\create.cshtml",
+              "RelativeDocumentMoniker": "todolist\\Views\\Todo\\create.cshtml",
+              "ToolTip": "C:\\Users\\AFROUKH\\Documents\\todolist\\todolist\\Views\\Todo\\create.cshtml",
+              "RelativeToolTip": "todolist\\Views\\Todo\\create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-07T16:21:14.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\AFROUKH\\Documents\\todolist\\todolist\\Views\\Todo\\Details.cshtml",
+              "RelativeDocumentMoniker": "todolist\\Views\\Todo\\Details.cshtml",
+              "ToolTip": "C:\\Users\\AFROUKH\\Documents\\todolist\\todolist\\Views\\Todo\\Details.cshtml",
+              "RelativeToolTip": "todolist\\Views\\Todo\\Details.cshtml",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAAEAAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-08T12:44:18.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "HolidayController.cs",
+              "DocumentMoniker": "C:\\Users\\AFROUKH\\Documents\\todolist\\todolist\\Controllers\\HolidayController.cs",
+              "RelativeDocumentMoniker": "todolist\\Controllers\\HolidayController.cs",
+              "ToolTip": "C:\\Users\\AFROUKH\\Documents\\todolist\\todolist\\Controllers\\HolidayController.cs",
+              "RelativeToolTip": "todolist\\Controllers\\HolidayController.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAQwBgAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T13:57:47.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\AFROUKH\\Documents\\todolist\\todolist\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "todolist\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\AFROUKH\\Documents\\todolist\\todolist\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "todolist\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T21:16:49.558Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\AFROUKH\\Documents\\todolist\\todolist\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "todolist\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\AFROUKH\\Documents\\todolist\\todolist\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "todolist\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-14T18:36:09.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\AFROUKH\\Documents\\todolist\\todolist\\Views\\Holidays\\Index.cshtml",
+              "RelativeDocumentMoniker": "todolist\\Views\\Holidays\\Index.cshtml",
+              "ToolTip": "C:\\Users\\AFROUKH\\Documents\\todolist\\todolist\\Views\\Holidays\\Index.cshtml",
+              "RelativeToolTip": "todolist\\Views\\Holidays\\Index.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-14T17:45:30.534Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Holiday.cs",
+              "DocumentMoniker": "C:\\Users\\AFROUKH\\Documents\\todolist\\todolist\\Class\\Holiday.cs",
+              "RelativeDocumentMoniker": "todolist\\Class\\Holiday.cs",
+              "ToolTip": "C:\\Users\\AFROUKH\\Documents\\todolist\\todolist\\Class\\Holiday.cs",
+              "RelativeToolTip": "todolist\\Class\\Holiday.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAADwvxYAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T15:27:44.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\AFROUKH\\Documents\\todolist\\todolist\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "todolist\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\AFROUKH\\Documents\\todolist\\todolist\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "todolist\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-07T16:10:27.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "20240609161125_ll.cs",
+              "DocumentMoniker": "C:\\Users\\AFROUKH\\Documents\\todolist\\todolist\\Migrations\\20240609161125_ll.cs",
+              "RelativeDocumentMoniker": "todolist\\Migrations\\20240609161125_ll.cs",
+              "ToolTip": "C:\\Users\\AFROUKH\\Documents\\todolist\\todolist\\Migrations\\20240609161125_ll.cs",
+              "RelativeToolTip": "todolist\\Migrations\\20240609161125_ll.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T16:11:25.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "20240609160714_test.cs",
+              "DocumentMoniker": "C:\\Users\\AFROUKH\\Documents\\todolist\\todolist\\Migrations\\20240609160714_test.cs",
+              "RelativeDocumentMoniker": "todolist\\Migrations\\20240609160714_test.cs",
+              "ToolTip": "C:\\Users\\AFROUKH\\Documents\\todolist\\todolist\\Migrations\\20240609160714_test.cs",
+              "RelativeToolTip": "todolist\\Migrations\\20240609160714_test.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T16:07:15.085Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\AFROUKH\\Documents\\todolist\\todolist\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "todolist\\Models\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\AFROUKH\\Documents\\todolist\\todolist\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "todolist\\Models\\ApplicationUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T12:57:52.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "20240609155800_initial1.cs",
+              "DocumentMoniker": "C:\\Users\\AFROUKH\\Documents\\todolist\\todolist\\Migrations\\ApplicationDb\\20240609155800_initial1.cs",
+              "RelativeDocumentMoniker": "todolist\\Migrations\\ApplicationDb\\20240609155800_initial1.cs",
+              "ToolTip": "C:\\Users\\AFROUKH\\Documents\\todolist\\todolist\\Migrations\\ApplicationDb\\20240609155800_initial1.cs",
+              "RelativeToolTip": "todolist\\Migrations\\ApplicationDb\\20240609155800_initial1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T15:58:00.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "20240609160006_initial.cs",
+              "DocumentMoniker": "C:\\Users\\AFROUKH\\Documents\\todolist\\todolist\\Migrations\\20240609160006_initial.cs",
+              "RelativeDocumentMoniker": "todolist\\Migrations\\20240609160006_initial.cs",
+              "ToolTip": "C:\\Users\\AFROUKH\\Documents\\todolist\\todolist\\Migrations\\20240609160006_initial.cs",
+              "RelativeToolTip": "todolist\\Migrations\\20240609160006_initial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T16:00:07.239Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "20240609143158_ToDok.cs",
+              "DocumentMoniker": "C:\\Users\\AFROUKH\\Documents\\todolist\\todolist\\Migrations\\20240609143158_ToDok.cs",
+              "RelativeDocumentMoniker": "todolist\\Migrations\\20240609143158_ToDok.cs",
+              "ToolTip": "C:\\Users\\AFROUKH\\Documents\\todolist\\todolist\\Migrations\\20240609143158_ToDok.cs",
+              "RelativeToolTip": "todolist\\Migrations\\20240609143158_ToDok.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T14:31:58.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "20240609142641_initialToDo.cs",
+              "DocumentMoniker": "C:\\Users\\AFROUKH\\Documents\\todolist\\todolist\\Migrations\\ApplicationDb\\20240609142641_initialToDo.cs",
+              "RelativeDocumentMoniker": "todolist\\Migrations\\ApplicationDb\\20240609142641_initialToDo.cs",
+              "ToolTip": "C:\\Users\\AFROUKH\\Documents\\todolist\\todolist\\Migrations\\ApplicationDb\\20240609142641_initialToDo.cs",
+              "RelativeToolTip": "todolist\\Migrations\\ApplicationDb\\20240609142641_initialToDo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T14:26:43.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "20240609141254_NewToDo.cs",
+              "DocumentMoniker": "C:\\Users\\AFROUKH\\Documents\\todolist\\todolist\\Migrations\\20240609141254_NewToDo.cs",
+              "RelativeDocumentMoniker": "todolist\\Migrations\\20240609141254_NewToDo.cs",
+              "ToolTip": "C:\\Users\\AFROUKH\\Documents\\todolist\\todolist\\Migrations\\20240609141254_NewToDo.cs",
+              "RelativeToolTip": "todolist\\Migrations\\20240609141254_NewToDo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T14:12:54.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "20240609141123_k.cs",
+              "DocumentMoniker": "C:\\Users\\AFROUKH\\Documents\\todolist\\todolist\\Data\\Migrations\\20240609141123_k.cs",
+              "RelativeDocumentMoniker": "todolist\\Data\\Migrations\\20240609141123_k.cs",
+              "ToolTip": "C:\\Users\\AFROUKH\\Documents\\todolist\\todolist\\Data\\Migrations\\20240609141123_k.cs",
+              "RelativeToolTip": "todolist\\Data\\Migrations\\20240609141123_k.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T14:11:24.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\AFROUKH\\Documents\\todolist\\todolist\\appsettings.json",
+              "RelativeDocumentMoniker": "todolist\\appsettings.json",
+              "ToolTip": "C:\\Users\\AFROUKH\\Documents\\todolist\\todolist\\appsettings.json",
+              "RelativeToolTip": "todolist\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAABcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-06T22:12:03.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "20240609133202_ClientToDo.cs",
+              "DocumentMoniker": "C:\\Users\\AFROUKH\\Documents\\todolist\\todolist\\Migrations\\20240609133202_ClientToDo.cs",
+              "RelativeDocumentMoniker": "todolist\\Migrations\\20240609133202_ClientToDo.cs",
+              "ToolTip": "C:\\Users\\AFROUKH\\Documents\\todolist\\todolist\\Migrations\\20240609133202_ClientToDo.cs",
+              "RelativeToolTip": "todolist\\Migrations\\20240609133202_ClientToDo.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T13:32:05.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "20240609132814_IdentityLinked.cs",
+              "DocumentMoniker": "C:\\Users\\AFROUKH\\Documents\\todolist\\todolist\\Data\\Migrations\\20240609132814_IdentityLinked.cs",
+              "RelativeDocumentMoniker": "todolist\\Data\\Migrations\\20240609132814_IdentityLinked.cs",
+              "ToolTip": "C:\\Users\\AFROUKH\\Documents\\todolist\\todolist\\Data\\Migrations\\20240609132814_IdentityLinked.cs",
+              "RelativeToolTip": "todolist\\Data\\Migrations\\20240609132814_IdentityLinked.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T13:28:15.312Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "20240609131752_InheritedUser.cs",
+              "DocumentMoniker": "C:\\Users\\AFROUKH\\Documents\\todolist\\todolist\\Data\\Migrations\\20240609131752_InheritedUser.cs",
+              "RelativeDocumentMoniker": "todolist\\Data\\Migrations\\20240609131752_InheritedUser.cs",
+              "ToolTip": "C:\\Users\\AFROUKH\\Documents\\todolist\\todolist\\Data\\Migrations\\20240609131752_InheritedUser.cs",
+              "RelativeToolTip": "todolist\\Data\\Migrations\\20240609131752_InheritedUser.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T13:17:52.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\AFROUKH\\Documents\\todolist\\todolist\\Views\\Todo\\Delete.cshtml",
+              "RelativeDocumentMoniker": "todolist\\Views\\Todo\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\AFROUKH\\Documents\\todolist\\todolist\\Views\\Todo\\Delete.cshtml",
+              "RelativeToolTip": "todolist\\Views\\Todo\\Delete.cshtml",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAAD8AAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-08T00:37:38.966Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{28836128-fc2c-11d2-a433-00c04f72d18a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

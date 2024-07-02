@@ -1,0 +1,172 @@
+﻿@model List<todolist.Models.Todos>
+@if (TempData["Success"] != null)
+{
+    <div class="alert alert-success" role="alert">
+        @TempData["Success"]
+        @{
+            TempData.Remove("Success");
+        }
+        
+    </div>
+
+}
+@{
+    ViewData["Title"] = "Taches";
+}
+
+<h4 class="mt-4">To-Do List</h4>
+
+
+<partial name="_CreateButton" />
+
+
+<table class="table table-striped table-hover">
+    <partial name="_TableEntete" />
+
+
+    <tbody>
+            @foreach (var item in Model)
+            {
+            <tr>
+                <td>@if (item.Status == "Done")
+                    {
+                        
+                    <button class="btn"><i class="bi bi-check2-square text-success"></i></button>}
+                    else
+                    {
+                        <button class="myBtn btn" value="@item.Id"><input type="checkbox" class="custom-control-input text-success" /></button>
+                    }
+                </td>
+                <td>
+                        @Html.DisplayFor(modelItem => item.Task)
+                </td>
+                <td></td>
+                <td>
+                        @Html.DisplayFor(modelItem => item.Description)
+                </td>
+                <td></td>
+                <td id="status">
+                        @Html.DisplayFor(modelItem => item.Status)
+                </td>
+                <td></td>
+                    @if (item.Priority == "Highest")
+                    {
+                    <td>
+                        <div class="progress progress-xxs progress-striped active">
+                            <div class="progress-bar bg-danger" style="width: 90%"></div>
+                        </div>
+                    </td>
+                    <td><span class="badge bg-danger">90%</span></td>
+                    <td></td>
+                    }
+                    @if (item.Priority == "High")
+                    {
+                    <td style="color:#8B0000;">
+
+                        <div class="progress progress-xxs">
+                            <div class="progress-bar bg-warning" style="width: 70%"></div>
+                        </div>
+                    </td>
+                    <td><span class="badge bg-warning">70%</span></td>
+                    <td></td>
+                    }
+                    @if (item.Priority == "Medium")
+                    {
+                    
+                    <td>
+                        <div class="progress progress-xxs">
+                            <div class="progress-bar bg-info" style="width: 55%"></div>
+                        </div>
+                       
+                    </td>
+                    <td> <span class="badge bg-info">55%</span></td>
+                    <td></td>
+                    }
+                    @if (item.Priority == "Low")
+                    {
+                    <td>
+                        <div class="progress progress-xxs progress-striped active">
+                            <div class="progress-bar bg-primary" style="width: 30%"></div>
+                        </div>
+                    </td>
+                    <td> <span class="badge bg-primary">30%</span></td>
+                    <td></td>
+                    }
+                    @if (item.Priority == "Lowest")
+                    {
+                    <td>
+                        <div class="progress progress-xxs">
+                            <div class="progress-bar bg-success" style="width: 10%"></div>
+                        </div>
+
+                    </td>
+                    <td> <span class="badge bg-success">10%</span></td>
+                    <td></td>
+                    }
+                <td></td>
+                <td>
+                        @Html.DisplayFor(modelItem => item.Assignee)
+                </td>
+                <td></td>
+                <td>
+                        @Html.DisplayFor(modelItem => item.Created)
+                </td>
+                <td></td>
+                <td>
+                        @Html.DisplayFor(modelItem => item.CompleteBy)
+                </td>   @if (item.CompleteBy.ToString("yyyy-MM-ddTHH:mm:ss") == DateTime.Today.ToString("yyyy-MM-ddTHH:mm:ss") && item.Status !="Done")
+                    {
+                        <div class="position-fixed top-0 end-0">
+
+             
+                        @Html.Partial("_toast", item)
+                    </div>
+                    }
+              
+                
+                <td></td>
+                <td>
+                    <a asp-action="Details" asp-route-id="@item.Id"
+                       class="btn btn-primary">
+                        <i class="bi bi-info-circle"></i>
+                    </a>
+                </td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@item.Id"
+                       class="btn btn-warning">
+                        <i class="bi bi-pencil-square"></i>
+                    </a>
+                </td>
+                <td>
+                    <a asp-action="Delete" asp-route-id="@item.Id"
+                       class="btn btn-danger">
+                        <i class="bi bi-trash"></i>
+                    </a>
+                </td>
+            </tr>
+            }
+    </tbody>
+</table>
+<script>
+    let ar = document.getElementsByClassName("myBtn");
+    for (let i = 0; i < ar.length; i++) {
+        ar[i].addEventListener("click", function check() {
+            $.ajax(
+                {
+                    method: "POST",
+                    url: "/Todo/check",
+                    dataType: "json",
+                    contentType: "application/json; charset=utf-8",
+                    data: JSON.stringify({ numero: i, Id: ar[i].value }),
+                    success: function (data) {
+                        if (data['success'] === true) {
+                            console.log(data);
+                            location.reload();                           
+                        }
+                       
+                    }, error: function (data) { console.log(data); }
+                })
+        });
+        }
+    
+</script>

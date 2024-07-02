@@ -1,0 +1,36 @@
+﻿@model todolist.Models.Todos
+
+    <div class="toast-container position-static">
+    <div class="toast fade show" id="myToastEl" role="alert" aria-live="assertive" aria-atomic="true" data-bs-delay="900000">
+    <div class="toast-header">
+        <img src="~/notif.png" style="width:50px;height:px;" class="rounded me-2" alt="...">           
+        <strong class="me-auto">notifications</strong>
+            <small id="timer" class="text-body-secondary timer">just now</small>
+        <button type="button" class="btn-close" data-bs-dismiss="toast" aria-label="Close"></button>
+    </div>
+    <div class="toast-body">
+        Warning ! Task: <text>@Model.Task</text><br/>
+        Description: @Model.Description .
+            Must be done as fast as possible.The deadline must be met by the end of the day. 
+    </div>
+</div>
+</div>
+
+<script>
+    var min = 1;
+    function update(){
+        var timer = document.getElementsByClassName('timer');
+        for (var i = 0; i < timer.length; i++) {
+            timer[i].innerHTML = `${min} minute ago`;
+        }
+        console.log(min);
+        min++
+    }
+    var myToastEl = document.getElementById('myToastEl');
+    var myToast = bootstrap.Toast.getOrCreateInstance(myToastEl);
+    document.addEventListener("DOMContentLoaded", function () {
+        if (!window.updateIntervalSet) {
+            window.updateIntervalSet = true;
+            setInterval(update, 60000);
+        } 
+    });</script>

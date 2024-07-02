@@ -1,0 +1,33 @@
+﻿@model List<todolist.Models.Todos>
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Calendrier</h1>
+<partial name="_calendar" />
+
+<script>
+    document.addEventListener('DOMContentLoaded', function () {
+        var calendarEl = document.getElementById('calendar');
+        var calendar = new FullCalendar.Calendar(calendarEl, {
+            initialView: 'dayGridMonth',
+            displayEventTime: false
+
+            });
+    @if (Model != null){
+    @foreach (var item in Model)
+    {
+        <text>
+                calendar.addEvent({
+                    title: '@item.Task.ToString() @item.Description.ToString()',
+                    start: '@item.Created.ToString("yyyy-MM-ddTHH:mm:ss")',
+                    end: '@item.CompleteBy.ToString("yyyy-MM-ddTHH:mm:ss")'
+                });
+        </text>
+    }}
+            calendar.render();
+    
+    });</script>
+
+
+    
